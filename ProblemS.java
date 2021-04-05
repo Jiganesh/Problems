@@ -6,7 +6,7 @@ public class ProblemS{
         Scanner scan = new Scanner(System.in);
         int m = scan.nextInt();
         int n = scan.nextInt();
-        String queue = scan.next();
+        String queue = scan.next().substring(0,m);
 
         while(n-- >0){
             queue = queue.replaceAll("BG", "GB");
