@@ -26,3 +26,9 @@ Index for Problems
 <br> ProblemX : https://codeforces.com/problemset/problem/467/A </br>
 <br> ProblemY : https://codeforces.com/problemset/problem/677/A </br>
 <br> ProblemZ : https://codeforces.com/problemset/problem/136/A </br>
+
+<h2> HackerEarth Problems</h2>
+
+[ProblemZA](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/vowels-love/)
+
+
