@@ -30,5 +30,7 @@ Index for Problems
 <h2> HackerEarth Problems</h2>
 
 [ProblemZA](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/vowels-love/)
-
-
+[ProblemZB](https://www.codewars.com/kata/59590976838112bfea0000fa/train/java)
+[ProblemZC](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/java)
+[ProblemZD](https://www.codewars.com/kata/5842df8ccbd22792a4000245/train/java)
+[ProblemZE]() 
