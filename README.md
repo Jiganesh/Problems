@@ -27,6 +27,7 @@ Index for Problems
 <br> ProblemY : https://codeforces.com/problemset/problem/677/A </br>
 <br> ProblemZ : https://codeforces.com/problemset/problem/136/A </br>
 
+<hr>
 <h2> CodeWars Problems</h2>
 
 - [ProblemZA](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/vowels-love/)
