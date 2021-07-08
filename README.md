@@ -41,3 +41,8 @@ Index for Problems
 - [ProblemZI](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/train/java)
 - [ProblemZJ](https://www.codewars.com/kata/546e2562b03326a88e000020/train/java)
 - [ProblemZL](https://www.codewars.com/kata/5264d2b162488dc400000001/train/java)
+- [ProblemZN](https://leetcode.com/problems/plus-one/)
+- [ProblemZO](https://leetcode.com/problems/add-binary/)
+- [ProblemZP](https://leetcode.com/problems/sqrtx/)
+- [ProblemZQ](https://leetcode.com/problems/coin-change/)
+- [ProblemZR](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
