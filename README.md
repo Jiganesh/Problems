@@ -46,3 +46,4 @@ Index for Problems
 - [ProblemZP](https://leetcode.com/problems/sqrtx/)
 - [ProblemZQ](https://leetcode.com/problems/coin-change/)
 - [ProblemZR](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [ProblemZT](https://www.codewars.com/kata/5541f58a944b85ce6d00006a/train/java)
