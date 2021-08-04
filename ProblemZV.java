@@ -9,7 +9,7 @@ public class ProblemZV {
         int i =0;
         while(i<text.length()){
           text1.append(text.charAt(i));
-          if (i+1 < text.length()) text2.append(" Hello World ");
+          if (i+1 < text.length()) text2.append(text.charAt(i+1));
           i+=2;
         }
         return new String(text1)+ new String (text2);
