@@ -47,3 +47,7 @@ Index for Problems
 - [ProblemZQ](https://leetcode.com/problems/coin-change/)
 - [ProblemZR](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [ProblemZT](https://www.codewars.com/kata/5541f58a944b85ce6d00006a/train/java)
+- [ProblemZU](https://www.codewars.com/kata/5613d06cee1e7da6d5000055/train/java)
+- [ProblemZV](https://www.codewars.com/kata/57a153e872292d7c030009d4/train/java)
+- [ProblemZW](https://www.codewars.com/kata/54dc6f5a224c26032800005c/train/java)
+- [ProblemZX](https://www.codewars.com/kata/55b4d87a3766d9873a0000d4/train/java)
