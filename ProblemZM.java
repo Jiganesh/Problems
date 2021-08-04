@@ -14,3 +14,4 @@ public class ProblemZM {
         equals(Arrays.stream(original.split(" ")).sorted().collect(Collectors.joining("")));
       }
 }
+// git config --global gpg.program  "D:\\JIGANESH\\APPS\\Git\\usr\\bin\\gpg.exe"
