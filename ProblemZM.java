@@ -5,12 +5,13 @@ public class ProblemZM {
 
     public static void main(String[] args) {
         System.out.println(isAnagram("foefet", "toffee"));
+        System.out.println(isAnagram("god", "dod"));
 
     }
     public static boolean isAnagram(String test, String original) {
         // your code goes here
         
-        return Arrays.stream(test.split(" ")).sorted().collect(Collectors.joining("")).
-        equals(Arrays.stream(original.split(" ")).sorted().collect(Collectors.joining("")));
+        return Arrays.stream(test.split("")).sorted().collect(Collectors.joining("")).
+        equals(Arrays.stream(original.split("")).sorted().collect(Collectors.joining("")));
       }
 }
