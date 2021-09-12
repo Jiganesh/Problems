@@ -27,10 +27,9 @@
 - [ProblemY](https://codeforces.com/problemset/problem/677/A )
 - [ProblemZ](https://codeforces.com/problemset/problem/136/A )
 
-
-
-
 - [ProblemAA](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java)
+- [ProblemAD](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/java)
+- [ProblemAF](https://www.codewars.com/kata/586d6cefbcc21eed7a001155/train/java)
 - [ProblemZA](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/vowels-love/)
 - [ProblemZB](https://www.codewars.com/kata/59590976838112bfea0000fa/train/java)
 - [ProblemZC](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/java)
